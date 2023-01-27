@@ -473,6 +473,8 @@ h6 {
   height: 75vh;
   background: url("../img/kah.png") top left;
   background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
   position: relative;
 }
 
